@@ -1,0 +1,5 @@
+load /Users/migu31/Desktop/OODSavedWorks/OODPhotoshop/code13/beach.png beach
+sepia beach beach2
+horizontal-flip beach2 beach3
+vertical-flip beach3 beach4
+save /Users/migu31/Desktop/OODSavedWorks/OODPhotoshop/code13/beach4.png beach4
